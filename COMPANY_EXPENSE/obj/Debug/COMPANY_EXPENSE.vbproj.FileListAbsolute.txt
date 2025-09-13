@@ -1,0 +1,564 @@
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.dll
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.xml
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.ExpenseForm.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Authorization_manager_.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Expenses_manager_.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.OverallExpense_Employee_.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Overview_employee_.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Overview_manager_.resources
+C:\Users\acer\source\repos\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.accounts.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Authorization_manager_.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.employees.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.ExpenseForm.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Expenses_manager_.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.expense_type.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.OverallExpense_Employee_.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Overview_employee_.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Overview_manager_.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.overview.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.position.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.purpose.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_menu.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.login.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.xml
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\Desktop\COMPANY_EXPENSE (2)\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Expenses_manager.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.accounts.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.employees.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.expense_type.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.position.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.purpose.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_menu.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_expense.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overall_expense.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overview.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_authorization.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_expense.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_overview.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.xml
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Admin_overview.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ms1.mdb
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.cache
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.compiled
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.admin_report.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.report.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.A_MainMenu.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_MainMenu.resources
+C:\Users\acer\Desktop\TESTING\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_Login.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ms1.mdb
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.xml
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.accounts.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.employees.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.expense_type.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Admin_overview.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.position.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.purpose.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.admin_report.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_menu.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.cache
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.compiled
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.main_login.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_expense.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overall_expense.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overview.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_authorization.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_expense.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_overview.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ms1.mdb
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\EnvDTE.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\stdole.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.accounts.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.employees.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.expense_type.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Admin_overview.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.position.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.purpose.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.admin_report.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_menu.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_expense.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overall_expense.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overview.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.main_login.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_authorization.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_expense.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_overview.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Downloads\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ms1.mdb
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\EnvDTE.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\stdole.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.accounts.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.employees.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.expense_type.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Admin_overview.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.position.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.purpose.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.admin_report.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_menu.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_expense.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overall_expense.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overview.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.main_login.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_authorization.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_expense.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_overview.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.cache
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.compiled
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Downloads\im case study (6)\im case study (5)\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.authorization.resources
+C:\Users\acer\Desktop\im case study\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.report.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ms1.mdb
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe.config
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\MySql.Data.xml
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.AssemblyReference.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.accounts.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.authorization.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.department.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.employees.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.expense_type.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Admin_overview.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.position.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.purpose.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.admin_report.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.sample_menu.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Employee.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_expense.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overall_expense.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.E_overview.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.main_login.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Manager.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_authorization.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_expense.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.M_overview.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.report.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Resources.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\RdlCompile.compiled
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.vbproj.CopyComplete
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.exe
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.xml
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.pdb
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.audit_trail.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.change_pass.resources
+C:\Users\acer\Desktop\COMPANY_EXPENSE\COMPANY_EXPENSE\obj\Debug\COMPANY_EXPENSE.Multifactor.resources

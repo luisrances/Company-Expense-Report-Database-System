@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props" Condition="Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE8D8471-CF6E-46D9-979A-3A952CD40557}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>COMPANY_EXPENSE.My.MyApplication</StartupObject>
+    <RootNamespace>COMPANY_EXPENSE</RootNamespace>
+    <AssemblyName>COMPANY_EXPENSE</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>COMPANY_EXPENSE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>COMPANY_EXPENSE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.160.1000.6\lib\net462\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.2.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMIN\accounts.Designer.vb">
+      <DependentUpon>accounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\accounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\audit_trail.Designer.vb">
+      <DependentUpon>audit_trail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\audit_trail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\authorization.Designer.vb">
+      <DependentUpon>authorization.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\authorization.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\department.Designer.vb">
+      <DependentUpon>department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\employees.Designer.vb">
+      <DependentUpon>employees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\employees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\expense_type.Designer.vb">
+      <DependentUpon>expense_type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\expense_type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\Admin_overview.Designer.vb">
+      <DependentUpon>Admin_overview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\Admin_overview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\position.Designer.vb">
+      <DependentUpon>position.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\position.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\purpose.Designer.vb">
+      <DependentUpon>purpose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\purpose.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\admin_report.Designer.vb">
+      <DependentUpon>admin_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\admin_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\sample menu.Designer.vb">
+      <DependentUpon>sample menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\sample menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="change pass\change_pass.Designer.vb">
+      <DependentUpon>change_pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="change pass\change_pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE\Employee.Designer.vb">
+      <DependentUpon>Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE\Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE\E_expense.Designer.vb">
+      <DependentUpon>E_expense.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE\E_expense.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE\E_overall_expense.Designer.vb">
+      <DependentUpon>E_overall_expense.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE\E_overall_expense.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE\E_overview.Designer.vb">
+      <DependentUpon>E_overview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE\E_overview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main LOGIN\main_login.Designer.vb">
+      <DependentUpon>main_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="main LOGIN\main_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANAGER\Manager.Designer.vb">
+      <DependentUpon>Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANAGER\Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANAGER\M_authorization.designer.vb">
+      <DependentUpon>M_authorization.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANAGER\M_authorization.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANAGER\M_expense.Designer.vb">
+      <DependentUpon>M_expense.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANAGER\M_expense.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANAGER\M_overview.Designer.vb">
+      <DependentUpon>M_overview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANAGER\M_overview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANAGER\report.Designer.vb">
+      <DependentUpon>report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANAGER\report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ms1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ms1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="multifactor\Multifactor.Designer.vb">
+      <DependentUpon>Multifactor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="multifactor\Multifactor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="sessionTimeout\SessionManager.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ADMIN\accounts.resx">
+      <DependentUpon>accounts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\audit_trail.resx">
+      <DependentUpon>audit_trail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\authorization.resx">
+      <DependentUpon>authorization.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\department.resx">
+      <DependentUpon>department.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\employees.resx">
+      <DependentUpon>employees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\expense_type.resx">
+      <DependentUpon>expense_type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\Admin_overview.resx">
+      <DependentUpon>Admin_overview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\position.resx">
+      <DependentUpon>position.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\purpose.resx">
+      <DependentUpon>purpose.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\admin_report.resx">
+      <DependentUpon>admin_report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\sample menu.resx">
+      <DependentUpon>sample menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="change pass\change_pass.resx">
+      <DependentUpon>change_pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE\Employee.resx">
+      <DependentUpon>Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE\E_expense.resx">
+      <DependentUpon>E_expense.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE\E_overall_expense.resx">
+      <DependentUpon>E_overall_expense.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE\E_overview.resx">
+      <DependentUpon>E_overview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main LOGIN\main_login.resx">
+      <DependentUpon>main_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANAGER\Manager.resx">
+      <DependentUpon>Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANAGER\M_authorization.resx">
+      <DependentUpon>M_authorization.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANAGER\M_expense.resx">
+      <DependentUpon>M_expense.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANAGER\M_overview.resx">
+      <DependentUpon>M_overview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANAGER\report.resx">
+      <DependentUpon>report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="multifactor\Multifactor.resx">
+      <DependentUpon>Multifactor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ms1DataSet.xsc">
+      <DependentUpon>ms1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ms1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ms1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ms1DataSet.xss">
+      <DependentUpon>ms1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ms1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EMPLOYEE.jpg" />
+    <Content Include="Resources\VERIFICATION.png" />
+    <None Include="Resources\main login.jpg" />
+    <Content Include="Resources\MAIN MENU.jpg" />
+    <Content Include="Resources\MAIN MENU1.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props'))" />
+  </Target>
+</Project>
