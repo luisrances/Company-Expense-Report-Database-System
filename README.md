@@ -1,4 +1,7 @@
-**[System Screenshots.pdf](./System%20Screenshots.pdf)**
+<p align="center">
+  <em>For detailed visual guidance and system screenshots, please refer to the 
+  <a href="./System%20Screenshots.pdf"><strong>System Screenshots PDF</strong></a>.</em>
+</p>
 
 # COMPANY EXPENSE REPORT DATABASE SYSTEM
 
