@@ -1,8 +1,11 @@
+**[System Screenshots.pdf](./System%20Screenshots.pdf)**
+
 # COMPANY EXPENSE REPORT DATABASE SYSTEM
+
 
 ## Description
 
-Developed a VB.NET and MySQL-based system to manage employee expense reports, departmental records, and financial data. Implemented normalized tables, queries, and views for efficient data handling, along with a role-based access control system tailored for administrators, managers, and employees. Integrated features such as automated approval workflows, real-time notifications, and reporting tools to streamline operations. Strengthened security through multi-factor authentication, encryption, and audit trails, ensuring data integrity and compliance.
+Developed a VB.NET and Microsoft Access-based system to manage employee expense reports, departmental records, and financial data. Implemented normalized tables, queries, and views for efficient data handling, along with a role-based access control system tailored for administrators, managers, and employees. Integrated features such as automated approval workflows, real-time notifications, and reporting tools to streamline operations. Strengthened security through multi-factor authentication, encryption, and audit trails, ensuring data integrity and compliance.
 
 ## Features
 
